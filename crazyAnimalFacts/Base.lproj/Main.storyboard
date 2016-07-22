@@ -46,14 +46,13 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Cat4.png" translatesAutoresizingMaskIntoConstraints="NO" id="TTS-Hs-ogs">
-                                <rect key="frame" x="36" y="422" width="303" height="178"/>
+                                <rect key="frame" x="36" y="447" width="303" height="178"/>
                             </imageView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina47"/>
                     <connections>
-                        <outlet property="crazyAnimalFacts" destination="KOX-SD-FzS" id="dqH-dk-cWw"/>
                         <outlet property="crazyFactsLabel" destination="KOX-SD-FzS" id="W40-HR-oJj"/>
                         <outlet property="factsButton" destination="3F4-9S-0Jz" id="qIJ-yh-aGv"/>
                         <outlet property="factsOutput" destination="rBJ-Ms-Md6" id="lRR-AQ-ymq"/>

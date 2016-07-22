@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		710FF70E1D42B29500F35346 /* Facts .swift in Sources */ = {isa = PBXBuildFile; fileRef = 710FF70D1D42B29500F35346 /* Facts .swift */; };
 		713146C51D4280DA005BDC3D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 713146C41D4280DA005BDC3D /* AppDelegate.swift */; };
 		713146C71D4280DA005BDC3D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 713146C61D4280DA005BDC3D /* ViewController.swift */; };
 		713146CA1D4280DA005BDC3D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 713146C81D4280DA005BDC3D /* Main.storyboard */; };
@@ -44,6 +45,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		710FF70D1D42B29500F35346 /* Facts .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Facts .swift"; sourceTree = "<group>"; };
 		713146C11D4280D9005BDC3D /* crazyAnimalFacts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = crazyAnimalFacts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		713146C41D4280DA005BDC3D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		713146C61D4280DA005BDC3D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -120,6 +122,7 @@
 				713146C41D4280DA005BDC3D /* AppDelegate.swift */,
 				713146C61D4280DA005BDC3D /* ViewController.swift */,
 				713146C81D4280DA005BDC3D /* Main.storyboard */,
+				710FF70D1D42B29500F35346 /* Facts .swift */,
 				713147061D42827A005BDC3D /* CatPics */,
 				713146CB1D4280DA005BDC3D /* Assets.xcassets */,
 				713146CD1D4280DA005BDC3D /* LaunchScreen.storyboard */,
@@ -305,6 +308,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				713146C71D4280DA005BDC3D /* ViewController.swift in Sources */,
+				710FF70E1D42B29500F35346 /* Facts .swift in Sources */,
 				713146C51D4280DA005BDC3D /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -532,6 +536,7 @@
 				713146EB1D4280DA005BDC3D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		713146EC1D4280DA005BDC3D /* Build configuration list for PBXNativeTarget "crazyAnimalFactsTests" */ = {
 			isa = XCConfigurationList;
@@ -540,6 +545,7 @@
 				713146EE1D4280DA005BDC3D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		713146EF1D4280DA005BDC3D /* Build configuration list for PBXNativeTarget "crazyAnimalFactsUITests" */ = {
 			isa = XCConfigurationList;
@@ -548,6 +554,7 @@
 				713146F11D4280DA005BDC3D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
